@@ -3,3 +3,4 @@
 2) Support Vector Machine.ipynb = ML model which will guess whether if it's a muffin or cupcake using SVM algorithm.
 3) Linear Regression.ipynb = ML model which will find out the total profits of a company using Linear Regression algorithm.
 4) Decision Tree.ipynb = Little detailed ML model which will predict whether a customer will repay loan or not using Decision Tree algorithm.
+5) Logistic Regression.ipynd = ML model which will predict and give us a good accuracy score whether a patient will get a heart disease or not using Logistic Regression algorithm.
