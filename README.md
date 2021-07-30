@@ -7,3 +7,4 @@ SUPERVISED LEARNING:
 5) Logistic Regression.ipynd = ML model which will predict and give us a good accuracy score whether a patient will get a heart disease or not using Logistic Regression algorithm.
 6) Naive Bayes.ipynd = Classifying texts into different groups based on which category they belong to using Naive Bayes algorithm.
 7) Naive Bayes Part 2.ipynb = Email classification which tells whether an email is a spam or not using Naive Bayes algorithm.
+8) Random Forest.ipynb = Predict what species of iris a set of flowers belong to using Random Forest algorithm.
