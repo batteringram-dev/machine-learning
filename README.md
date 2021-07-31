@@ -8,3 +8,6 @@ SUPERVISED LEARNING:
 6) Naive Bayes.ipynd = Classifying texts into different groups based on which category they belong to using Naive Bayes algorithm.
 7) Naive Bayes Part 2.ipynb = Email classification which tells whether an email is a spam or not using Naive Bayes algorithm.
 8) Random Forest.ipynb = Predict what species of iris a set of flowers belong to using Random Forest algorithm.
+
+UNSUPERVISED LEARNING:
+1) K-Means Clustering.ipynb = Clustering cars based on brands using parameters such as horsepower, make year, cubic inches, etc using K-Means Clustering algorithm.
